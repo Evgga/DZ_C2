@@ -1,0 +1,15 @@
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.csproj.AssemblyReference.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.AssemblyInfoInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.AssemblyInfo.cs
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.csproj.CoreCompileInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\bin\Debug\net6.0\Fizz_Buzz.exe
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\bin\Debug\net6.0\Fizz_Buzz.deps.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\bin\Debug\net6.0\Fizz_Buzz.runtimeconfig.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\bin\Debug\net6.0\Fizz_Buzz.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\bin\Debug\net6.0\Fizz_Buzz.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\refint\Fizz_Buzz.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\Fizz_Buzz.genruntimeconfig.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C2\Fizz_Buzz\obj\Debug\net6.0\ref\Fizz_Buzz.dll
